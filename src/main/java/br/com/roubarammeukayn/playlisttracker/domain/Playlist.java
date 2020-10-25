@@ -1,4 +1,4 @@
-package br.com.roubarammeukayn.playlisttracker.model;
+package br.com.roubarammeukayn.playlisttracker.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
